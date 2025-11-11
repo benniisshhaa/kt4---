@@ -1,1 +1,38 @@
+p{
+  color: red;
+  font-size: 20px;
+  font-family: Courier New;
+}
+h1{
+  color: green;
+}
+.red{
+  color: pink;
+}
+body{
+  background: #FFFFE0;
+}
+div{
+  background: LightCyan;
+}
 
+.Div_2{
+  background-image: url(https://i.pinimg.com/736x/ff/47/4c/ff474c49434868864a602813394986cc.jpg);
+  background-size: 100px 100px;
+}
+h3{
+  text-align: center;
+}
+.center{
+  text-align: center;
+  font-weight: bold;
+  font-style: oblique;
+}
+.gde{
+  background-image: url(https://i.pinimg.com/736x/a1/f2/89/a1f2897179c068c3d45cef4797209b92.jpg);
+  background-size: 100px 100px;
+  opacity: 70%;
+}
+.div2{
+  
+}
