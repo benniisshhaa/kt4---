@@ -1,1 +1,15 @@
-
+.img{
+  background-image: url(https://i.pinimg.com/474x/55/23/6e/55236e4f612fa4c415c6ae183708e5dd.jpg?nii=t);
+}
+h1{
+  font-family: arial;
+  color: #2F4F4F;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+p{
+  font-family: Calibri;
+  font-size:20px;
+}
